@@ -51,5 +51,5 @@ The script performs the following operations:
 ## Author
 Tymon Stankiewicz
 
-##License 
+## License 
 Academic Free License
