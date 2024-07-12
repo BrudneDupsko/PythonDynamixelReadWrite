@@ -22,7 +22,7 @@ This script is used to control a Dynamixel motor using the Dynamixel SDK library
 To install the required libraries, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/username/project_name.git
+   git clone https://github.com/BrudneDupsko/PythonDynamixelReadWrite
 2. Navigate to the project directory:
    cd project_name
 3. Install the Dynamixel SDK library:
